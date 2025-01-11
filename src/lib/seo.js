@@ -10,3 +10,4 @@ export const generateGameSEO = (game) => ({
       "genre": game.genre,
     },
   });
+  // commit test
